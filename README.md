@@ -3,6 +3,7 @@ RExRepos
 
 R Examples Repository
 ---------------------
+[RExRepos](http://www.dwoll.de/rexrepos/)
 
 ### R code examples for a number of common data analysis tasks
 
